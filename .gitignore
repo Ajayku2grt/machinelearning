@@ -2,3 +2,4 @@
 /bertopic/winemag-data-130k-v2.csv
 /movie_recomm/tmdb_5000_credits.csv
 /movie_recomm/tmdb_5000_movies.csv
+./bertopic/winemag-data-130k-v2.json
